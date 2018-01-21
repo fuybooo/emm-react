@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Login from './Login/Login';
 import App from './App';
-import {Route} from 'react-router';
+import {Route} from 'react-router-dom';
 
 export default class Routes extends React.Component {
   render() {

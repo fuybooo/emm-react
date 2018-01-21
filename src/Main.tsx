@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {Layout, Menu, Breadcrumb} from 'antd';
 import {Link} from 'react-router-dom';
-import './main.css';
+import './Main.css';
 import {BrowserRouter as Router} from 'react-router-dom';
-import Routes from './Routes';
+import Routes from './Routers';
 
 const {SubMenu} = Menu;
 const {Header, Content, Footer} = Layout;
