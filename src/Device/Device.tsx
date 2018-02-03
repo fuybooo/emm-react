@@ -1,8 +1,8 @@
 import * as React from 'react';
-export default class Content extends React.Component {
+export default class Device extends React.Component {
   render() {
     return (
-      <div>Content</div>
+      <div>Device</div>
     );
   }
 }
